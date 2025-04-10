@@ -18,7 +18,7 @@ Whether you're a seasoned pianist or just discovering your musical talent, Piano
   ~key changes visually when its pressed
 
 ##Recording music
-  ~ hit record music to hear comnposed sounds
+  ~ click "record music" to hear comnposed sounds
   ~ can record multiple tunes and play the sounds
 
 ##Saving music
@@ -45,7 +45,7 @@ Whether you're a seasoned pianist or just discovering your musical talent, Piano
 ##Contributors
   ~ The Piano-Men: Jan, Andrew, Kyle, Vincent
 
- Start playing and composing with Piano Pulse today!oject
+ Start playing and composing with Piano Pulse today!
 
  ![image](https://github.com/user-attachments/assets/6b1eea38-1a52-448c-96a7-d774c3bb2a99)
 
