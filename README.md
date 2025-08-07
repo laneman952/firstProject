@@ -47,7 +47,7 @@ Whether you're a seasoned pianist or just discovering your musical talent, Piano
 
  Start playing and composing with Piano Pulse today!
 
- ![image](https://github.com/user-attachments/assets/6b1eea38-1a52-448c-96a7-d774c3bb2a99)
+ ![image](https://github.com/user-attachments/assets/6b1eea38-1a52-448c-96a7-d774c3bb2a99) 
 
  [Launch Piano Pulse](https://laneman952.github.io/firstProject/)
 
